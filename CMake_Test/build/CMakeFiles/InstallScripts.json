@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dongyurong/homework2-1/CMake_Test/build/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/common/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/common/kalman/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/common/math/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/modules/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/modules/A1/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/modules/A2/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/modules/M1/cmake_install.cmake",
+		"/home/dongyurong/homework2-1/CMake_Test/build/src/modules/M2/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
